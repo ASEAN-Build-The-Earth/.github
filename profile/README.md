@@ -1,4 +1,5 @@
-## Welcome to Team ASEAN! 
+# Welcome to Team ASEAN! 
+![AseanBanner](https://github.com/ASEAN-Build-The-Earth/.github/blob/main/Assets/Images/AseanBanner.jpeg)
   Team ASEAN is a unified team which consists of countries that are from the South East Asia region. 
 We will oversee the progression of Thailand, Malaysia, Singapore, Vietnam, Philippines, Brunei, Myanmar, Cambodia, Indonesia, Laos and Timor-Leste throughout the building process.
 
